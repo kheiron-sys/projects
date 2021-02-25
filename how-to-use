@@ -1,0 +1,8 @@
+Download the DarkInternal materials linked to you.
+Unzip archive to desktop on any file
+Open cmd & use command "cd C:\Desktop\Location" (location is where you unzip archive)
+When location was selected, use this command "mapper.exe kernel.sys"
+Open DarkInjector.exe
+Start game.
+DarkInternal b0.1 will be injected.
+Enjoy!
